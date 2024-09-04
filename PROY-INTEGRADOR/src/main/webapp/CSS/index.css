@@ -17,8 +17,19 @@ body {
 }
 
 .logo {
-  width: 5rem;
+  width: 3rem;
 }
 .header-nav {
   background-color: var(--beige);
+}
+.generos-lib {
+  display: flex;
+  flex-direction: column;
+}
+.genero .tittle-cat{
+  display: flex;
+}
+
+.generos-lib .img-categoria{
+  width: 3rem;
 }

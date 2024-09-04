@@ -39,9 +39,7 @@
       <div id="carouselExampleInterval" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner portada-carrousel">
           <div class="carousel-item active" data-bs-interval="8000">
-            <img
-              src="img/portadashibaa.png"
-              class="d-block w-100 shiba" alt="..."/>
+            <img src="img/portadashibaa.png" class="d-block w-100 shiba" alt="..." />
           </div>
           <div class="carousel-item" data-bs-interval="8000">
             <img
@@ -71,6 +69,22 @@
         </button>
       </div>
     </section>
+
+    <main class="generos-lib pt-5">
+      <section class="genero">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <img src="img/logo.png" alt="" class="img-categoria"/>
+              <hr>
+            </div>
+            <div class="col">
+              <button class="">Ver más ></button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
       integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
